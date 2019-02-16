@@ -1,1 +1,0 @@
-SELECT * FROM country_and_city.country_and_city;
